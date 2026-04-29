@@ -1,0 +1,18 @@
+2026-01-27 12:12:47,242 18460 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.request:INFO" 
+2026-01-27 12:12:47,271 18460 DEBUG ? odoo.netsvc: logger level set: "odoo.http.rpc.response:INFO" 
+2026-01-27 12:12:47,271 18460 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2026-01-27 12:12:47,271 18460 DEBUG ? odoo.netsvc: logger level set: "odoo:DEBUG" 
+2026-01-27 12:12:47,272 18460 DEBUG ? odoo.netsvc: logger level set: "odoo.sql_db:INFO" 
+2026-01-27 12:12:47,272 18460 DEBUG ? odoo.netsvc: logger level set: ":INFO" 
+2026-01-27 12:12:47,272 18460 INFO ? odoo: Odoo version 18.0 
+2026-01-27 12:12:47,414 18460 INFO ? odoo: Using configuration file at D:\Odoo18\odoo_nobom.conf 
+2026-01-27 12:12:47,414 18460 INFO ? odoo: addons paths: ['D:\\Odoo18\\odoo\\odoo\\addons', 'd:\\odoo18\\odoo-data\\addons\\18.0', 'd:\\odoo18\\odoo\\addons', 'd:\\odoo18\\odoo\\customaddons', 'd:\\odoo18\\odoo\\odoo\\addons'] 
+2026-01-27 12:12:47,425 18460 INFO ? odoo: database: odoo@localhost:5432 
+2026-01-27 12:12:47,946 18460 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2026-01-27 12:12:47,953 18460 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltoimage to generate images from html. 
+2026-01-27 12:12:48,803 18460 DEBUG ? odoo.service.server: Setting signal handlers 
+2026-01-27 12:12:48,823 18460 INFO ? odoo.service.server: Initiating shutdown 
+2026-01-27 12:12:48,823 18460 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2026-01-27 12:12:48,823 18460 DEBUG ? odoo.service.server: current thread: <_MainThread(MainThread, started 13716)> 
+2026-01-27 12:12:48,824 18460 DEBUG ? odoo.service.server: process <_MainThread(MainThread, started 13716)> (False) 
+2026-01-27 12:12:48,831 18460 DEBUG ? odoo.service.server: -- 
