@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Virtual env
+venv/
+
+# Odoo core & runtime
+odoo/
+odoo-data/
+.odoo/
+
+# Config & secrets
+*.conf
+
+# Archives & backups
+*.tar.gz
+*.zip
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
